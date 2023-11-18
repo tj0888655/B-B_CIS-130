@@ -41,3 +41,17 @@ p.flavor {
     background-image: url(images/background.png);
 
 }
+
+footer { 
+    align-items: center;
+    height: 75px;
+
+}
+
+.ttb { 
+    padding-bottom: 21%;
+}
+
+.inName { 
+    width: 50%;
+}
